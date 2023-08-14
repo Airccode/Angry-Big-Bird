@@ -4,7 +4,7 @@
 # 关卡选择页面
 ![Alt Text](https://github.com/Airccode/Angry-Big-Bird/blob/main/LevelSelect.png)<br/>
 # 游戏场景页面
-![Alt Text](https://github.com/Airccode/Angry-Big-Bird/blob/main/GameSelect.png)<br/>
+![Alt Text](https://github.com/Airccode/Angry-Big-Bird/blob/main/GameScene.png)<br/>
 # 分数结算页面
 ![Alt Text](https://github.com/Airccode/Angry-Big-Bird/blob/main/ScoreUI.png)<br/>
 
